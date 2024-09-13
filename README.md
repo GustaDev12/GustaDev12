@@ -22,7 +22,7 @@
 
 ## Contato
 
-## Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais abaixo:
+### Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais abaixo:
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([www.youtube.com](https://www.youtube.com/@arenaaovivo25))
 
