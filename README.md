@@ -1,8 +1,32 @@
-### 🚀 Tech Stack
+# Always learning new things 🚀
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
+```js
+import Developer from "gustavinicius";
+
+class AboutMe extends Developer {
+  name = "Gustavo Vinícius";
+  area = "Full Stack Developer";
+  location = "Campina Grande, PB, Brazil";
+}
+
+class Skills extends Developer {
+  languages = [
+    "HTML", 
+    "CSS", 
+    "JavaScript", 
+    "TypeScript", 
+    "Next.js", 
+    "React", 
+    "NestJS", 
+    "Prisma ORM", 
+    "Tailwind CSS", 
+    "MySQL", 
+    "SQLite"
+  ];
+  working = ["Front-end", "Back-end"];
+}
+```
+
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GustaDev12&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GustaDev12&theme=tokyonight)
+
