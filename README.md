@@ -27,6 +27,8 @@ class Skills extends Developer {
 }
 ```
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GustaDev12&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=GustaDev12&theme=tokyonight)
+| GitHub Stats | Streak |
+|--------------|--------|
+| <img src="https://github-readme-stats.vercel.app/api?username=GustaDev12&show_icons=true&theme=tokyonight" height="150"/> | <img src="https://streak-stats.demolab.com?user=GustaDev12&theme=tokyonight" height="150"/> |
+
 
